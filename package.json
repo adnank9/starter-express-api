@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+    "install-packages": "npm install"
   },
   "repository": {
     "type": "git",
