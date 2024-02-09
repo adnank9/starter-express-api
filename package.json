@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
     "install-packages": "npm install"
+    "start": "node index.js"
+    
   },
   "repository": {
     "type": "git",
